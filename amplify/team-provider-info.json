@@ -1,0 +1,47 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "authRoleName": "amplify-amplify17de85b6f2ea4-staging-105717-authRole",
+      "UnauthRoleArn": "arn:aws:iam::620179071580:role/amplify-amplify17de85b6f2ea4-staging-105717-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::620179071580:role/amplify-amplify17de85b6f2ea4-staging-105717-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-amplify17de85b6f2ea4-staging-105717-deployment",
+      "unauthRoleName": "amplify-amplify17de85b6f2ea4-staging-105717-unauthRole",
+      "StackName": "amplify-amplify17de85b6f2ea4-staging-105717",
+      "StackId": "arn:aws:cloudformation:us-east-1:620179071580:stack/amplify-amplify17de85b6f2ea4-staging-105717/db5b7ff0-2076-11ed-8c96-0accfba743cd",
+      "AmplifyAppId": "d1x7p0b8w6xvon",
+      "AuthRoleName": "amplify-amplify17de85b6f2ea4-staging-105717-authRole",
+      "UnauthRoleName": "amplify-amplify17de85b6f2ea4-staging-105717-unauthRole"
+    },
+    "categories": {
+      "auth": {
+        "myyelp615b8e1b": {}
+      }
+    }
+  },
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-myyelp-dev-fbc9f-authRole",
+      "UnauthRoleArn": "arn:aws:iam::730335654354:role/amplify-myyelp-dev-fbc9f-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::730335654354:role/amplify-myyelp-dev-fbc9f-authRole",
+      "Region": "ca-central-1",
+      "DeploymentBucketName": "amplify-myyelp-dev-fbc9f-deployment",
+      "UnauthRoleName": "amplify-myyelp-dev-fbc9f-unauthRole",
+      "StackName": "amplify-myyelp-dev-fbc9f",
+      "StackId": "arn:aws:cloudformation:ca-central-1:730335654354:stack/amplify-myyelp-dev-fbc9f/265995b0-1d27-11ef-af1b-0ef852f1ea09",
+      "AmplifyAppId": "d2tgftghkeesej"
+    },
+    "categories": {
+      "auth": {
+        "myyelp0d8f2f50": {},
+        "userPoolGroups": {}
+      },
+      "api": {
+        "myyelp": {}
+      },
+      "hosting": {
+        "S3AndCloudFront": {}
+      }
+    }
+  }
+}
